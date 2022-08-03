@@ -8,6 +8,7 @@ Utilizaei uma led RGB, 4 jumpers, 3 resistores de 220 ohms.
 Ele fica trocando a cor do led RGB a cada 1 segundo. <br>
 
 ## Projeto no tinkercad
+<img src="https://github.com/Tiodevs/Arduino_RGB/blob/main/Projeto_digital.png?raw=true" width="500">
 
 ## Projeto na pratica 01
 <img src="https://raw.githubusercontent.com/Tiodevs/Arduino_RGB/main/Led_RGB.jpeg" width="200">
